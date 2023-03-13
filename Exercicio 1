@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br“>
+    <head>
+        <title>Documento HTML mínimo</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+      <h1>Lista De Compras</h1>
+       <ul>
+        <li>Arroz</li>
+        <li>Feijão</li>
+        <li>Óleo de soja</li>
+        <li>Sal</li>
+        <li>Açúcar</li>
+        <li>Café</li>
+        <li>Molho de tomate</li>
+       </ul>
+
+
+       <h1>Grupos da Copa</h1>
+         <ul>
+           <li>Grupo A
+             <ul>
+              <li> <img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/11/bandeira-do-catar.jpg" width="30"> Quatar</li> 
+
+              <li> <img src="https://s2.static.brasilescola.uol.com.br/be/2022/11/bandeira-do-equador-hasteada.jpg" width="30"> Equador</li>
+
+              <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/255px-Flag_of_Senegal.svg.png" width="30"> 
+Senegal</li>
+
+              <li> <img src="https://www.holandaevoce.nl/binaries/medium/content/gallery/nl-netherlandsandyou/content-afbeeldingen/vlag-nederland.png" width="30">  Holanda</li>
+
+             </ul>
+            </li>
+              
+            <li>Grupo B
+             <ul>
+              <li>Inglaterra</li>
+              <li>Irã</li>
+              <li>EUA</li>
+              <li>País de Gales</li>
+             </ul>
+            </li>
+           
+           <li>Grupo C
+             <ul>
+              <li>Argentina</li>
+              <li>Arábia Saudita</li>
+              <li>México</li>
+              <li>Polônia</li>
+             </ul>
+            </li>
+
+           <li>Grupo D
+             <ul>
+              <li>França</li>
+              <li>Austrália</li>
+              <li>Dinamarca</li>
+              <li>Tunísia</li>
+             </ul>
+            </li>
+              
+
+       </body>
+     </html>
