@@ -1,0 +1,65 @@
+
+
+<!DOCTYPE html>
+<html lang="pt-br“>
+    <head>
+        <title>Documento HTML mínimo</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+
+        <!-- Exercicio DESWEB -->
+        <h1><i><b>Lorem Ipsum</b></i></h1>
+        <h4>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</h4>
+        <h6>"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."</h6>
+    
+ <h1>Não Ordenada</h1>
+
+      <ul>
+        <li>Carros</li>
+        <li>Motos</li>
+        <li>Listas</li>
+      </ul>
+    
+     <h1>Ordenada</h1>
+
+     <ol>
+        <li>Carros</li>
+        <li>Motos</li>
+        <li>Listas</li>
+      </ol>
+
+    <h1>Ordenada Reversa</h1>
+
+     <ol reversed>
+        <li>Carros</li>
+        <li>Motos</li>
+        <li>Listas</li>
+      </ol reversed>
+
+<h1> Listas Aninhadas </h1>
+
+    <ul>
+       <li>Modelos
+        <ul>
+         <li>Carros</li>
+         <li>Motos</li>
+         <li>Listas</li>
+        </ul>
+       </li>
+    </ul>
+
+<h1> Listas de definições</h1>
+   
+
+   <dl>
+      <dt>Harley </dt>
+        <dd>Chopper</dd>
+      <dt>Honda</dt>
+        <dd>Big Trail</dd>
+   </dl>
+
+
+     
+    </body>
+</html>
