@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="pt-br“>
     <head>
@@ -17,7 +19,7 @@
        </ul>
 
 
-       <h1>Grupos da Copa</h1>
+       <h1>Grupos da Copa <img src="data:image/png;base64,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" width="60" > </h1>
          <ul>
            <li>Grupo A
              <ul>
@@ -35,31 +37,66 @@ Senegal</li>
               
             <li>Grupo B
              <ul>
-              <li>Inglaterra</li>
-              <li>Irã</li>
-              <li>EUA</li>
-              <li>País de Gales</li>
+              <li> <img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/10/1-bandeira-da-inglaterra.jpg" width="30"> Inglaterra</li>
+              <li> <img src="https://s4.static.brasilescola.uol.com.br/be/2022/11/bandeira-ira1.jpg" width="30"> Irã</li>
+              <li> <img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg" width="30"> EUA</li>
+              <li> <img src="https://www.conexaoeuropa.com.br/wp-content/uploads/2021/02/welsh-flag-23199_1280.jpg" width="30"> País de Gales</li>
              </ul>
             </li>
            
            <li>Grupo C
              <ul>
-              <li>Argentina</li>
-              <li>Arábia Saudita</li>
-              <li>México</li>
-              <li>Polônia</li>
+              <li> <img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/01/bandeira-da-argentina.jpg" width="30"> Argentina</li>
+              <li> <img src="https://img.elo7.com.br/product/original/44DFF1A/bandeira-da-arabia-saudita-tamanho-oficial-0-90x1-28m-947381-tamanho-oficial.jpg" width="30""> Arábia Saudita</li>
+              <li> <img src="https://s4.static.brasilescola.uol.com.br/be/2022/10/bandeira-do-mexico.jpg" width="30""> México</li>
+              <li> <img src="https://geo5.net/imagens/bandeira-da-polonia-2000px.png" width="30""> Polônia</li>
              </ul>
             </li>
 
            <li>Grupo D
              <ul>
-              <li>França</li>
-              <li>Austrália</li>
-              <li>Dinamarca</li>
-              <li>Tunísia</li>
+              <li> <img src="https://static.todamateria.com.br/upload/fr/an/frana_a.jpg" width="30">França</li>
+              <li> <img src="https://s2.static.brasilescola.uol.com.br/be/2022/10/bandeira-da-australia.jpg" width="30"> Austrália</li>
+              <li> <img src="https://s5.static.brasilescola.uol.com.br/be/2022/10/bandeira-dinamarca-2.jpg" width="30"> Dinamarca</li>
+              <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/255px-Flag_of_Tunisia.svg.png" width="30"> Tunísia</li>
              </ul>
             </li>
-              
+
+            <li>Grupo E
+                <ul>
+                 <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/255px-Flag_of_Germany.svg.png" width="30"> Espanha </li>
+                 <li> <img src="https://s4.static.brasilescola.uol.com.br/be/2022/10/bandeira-da-costa-rica.jpg" width="30"> Costa Rica </li>
+                 <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/255px-Flag_of_Germany.svg.png" width="30"> Alemanha </li>
+                 <li> <img src="https://www.br.emb-japan.go.jp/cultura/bandeira.jpg" width="30"> japão </li>
+                </ul>
+               </li>
+
+               <li>Grupo F
+                <ul>
+                 <li> <img src="https://s4.static.brasilescola.uol.com.br/be/2022/11/bandeira-da-belgica.jpg" width="30"> Bélgica </li>
+                 <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/305px-Flag_of_Canada_%28Pantone%29.svg.png" width="30"> Canadá </li>
+                 <li> <img src="https://s3.static.brasilescola.uol.com.br/be/2022/11/bandeira-do-marrocos.jpg" width="30"> Marrocos </li>
+                 <li> <img src="https://s3.static.brasilescola.uol.com.br/be/2022/10/bandeira-da-croacia.jpg" width="30"> Croácia </li>
+                </ul>
+               </li>
+
+               <li>Grupo G
+                <ul>
+                 <li> <img src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg" width="30"> Brasil </li>
+                 <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/255px-Flag_of_Serbia.svg.png" width="30"> Sérvia </li>
+                 <li> <img src="https://s4.static.brasilescola.uol.com.br/be/2022/04/bandeira-da-suica.jpg" width="30"> Suíça </li>
+                 <li> <img src="https://s3.static.brasilescola.uol.com.br/be/2022/11/bandeira-de-camaroes.jpg" width="30"> Camarões </li>
+                </ul>
+               </li>
+
+               <li>Grupo H
+                <ul>
+                 <li> <img src="https://s1.static.brasilescola.uol.com.br/be/2022/10/bandeira-portugal-2.jpg" width="30"> Portugal </li>
+                 <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/255px-Flag_of_Ghana.svg.png" width="30"> Gana </li>
+                 <li> <img src="https://static.significados.com.br/foto/bandeira-do-uruguai-fb.png" width="30"> Uruguay </li>
+                 <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/300px-Flag_of_South_Korea.svg.png" width="30"> Correia do Sul </li>
+                </ul>
+               </li>
 
        </body>
      </html>
