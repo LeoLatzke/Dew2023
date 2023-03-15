@@ -1,0 +1,61 @@
+ <!DOCTYPE html>
+  <html lang="Pt-Br"  
+  
+  <head> 
+  
+    <title> Exercicio 14/03 </title>  
+    <meta charset="utf-8">
+  
+  </head>
+
+  <body>
+    
+    <h1> Lista de tarefas <Img src="data:image/jpeg;base64,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" width="50"> </h1>
+     
+      <h3> Organização do dia</h3>
+
+        <p><s><mark>Acordar</mark></s></p>
+        <p><s>Café</s></p>
+        <P><s>Escovar os Dentes</s></P>
+        <p><s>Trocar de Roupa</s></p>
+        <p><mark><s>Ir Ao trabalho</s></mark></p>
+        <p><mark><s>Tomar Banho</mark></s></p>
+        <P><mark><s>Ir a Faculdade</s></mark></P>
+        <p>Dormir</p>
+
+        <hr>
+
+    <h3>Exercicio 2</h3>
+
+      <h1> <i>Lorem Ipsum</i> </h1>
+
+      <h4><i>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</i></h4>
+        
+      <p><small>1</small> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fermentum justo eu velit accumsan, congue maximus odio ullamcorper. Vestibulum porttitor dui purus, non lacinia arcu rutrum dapibus. Nullam nec elit id mauris convallis tristique sit amet nec enim. Donec bibendum eros ligula, vitae tempus lectus placerat eget. Vivamus sed dui a metus blandit consectetur at nec nisl. Quisque aliquam leo at nulla dapibus imperdiet. Vestibulum tristique leo venenatis enim rutrum, sed sagittis sem accumsan. <sup>1</sup></p>
+     
+      <hr>
+      
+      <p><small>2</small> Sed sodales massa sit amet elit porta, et porta libero luctus. Sed scelerisque nibh eu est mattis congue. Maecenas a augue libero. Etiam varius massa fringilla tellus efficitur molestie. Nullam semper malesuada blandit. Maecenas bibendum pellentesque nibh eu posuere. Pellentesque lacus leo, ornare in varius et, faucibus sed elit. Vivamus non massa ac leo convallis mattis sit amet egestas sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras nibh urna, feugiat facilisis posuere et, sodales sit amet felis.<sup>2</sup> </p>
+
+      <hr>
+
+      <p><small>3</small> Vivamus ullamcorper viverra luctus. Vivamus auctor pharetra risus nec ornare. Vestibulum ipsum enim, dignissim quis quam vitae, euismod vestibulum ex. Sed imperdiet purus metus, ut luctus nunc iaculis vitae. Aliquam cursus varius velit. Aenean sed cursus neque, eu dapibus lectus. Maecenas feugiat enim venenatis, ultricies mauris in, commodo leo. Vestibulum purus justo, pretium ac mi eu, cursus dapibus magna. Quisque ac urna tellus. Phasellus blandit, justo in mollis interdum, odio mauris euismod tortor, id tristique ligula justo id dolor. Cras egestas ex sit amet dolor tincidunt efficitur in tristique orci. Suspendisse vel commodo odio. Morbi volutpat lacinia augue, quis tempor eros.<sup>3</sup></p>
+
+      <hr>
+      
+  <h1>Exercicio 3</h1>
+
+   <h2><strong><i>Strong</i></strong></h2>
+   <h3>Forte</h3>
+   <p><i>A strong wind is shaking the trees in my garden.</i></p> 
+
+  <h1>Exercicio 4</h1>
+  
+  <h2><b>Lorem Ipsum</b></h2>
+
+  <p><b>Lorem</b> ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fermentum justo eu velit accumsan, congue maximus odio ullamcorper. Vestibulum porttitor dui purus, non lacinia arcu rutrum dapibus. Nullam nec elit id mauris convallis tristique sit amet nec enim. Donec bibendum eros ligula, vitae tempus lectus placerat eget. Vivamus sed dui a metus blandit consectetur at nec nisl. Quisque aliquam leo at nulla dapibus imperdiet. Vestibulum tristique leo venenatis enim rutrum, sed sagittis sem accumsan.</p>
+
+
+
+    </body>
+</html>
