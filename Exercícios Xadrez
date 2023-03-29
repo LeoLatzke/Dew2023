@@ -1,0 +1,107 @@
+<!doctipe html>
+  <html lang="PT-BR"
+   <html>
+     <head> <tittle>Tabuleiro</tittle> </head>
+     <body>  
+       <table border="1">
+
+         <tr><td width="50" height="30"bgcolor="#ccff33"> <center><b>1</b></center></td>   
+            <td width="50" height="30" bgcolor="#ccff33"> <center><b>2</b></center></td>
+            <td width="50" height="30" bgcolor="#ccff33"> <center><b>3</b></center></td>
+            <td width="50" height="30" bgcolor="#ccff33"> <center><b>4</b></center></td>
+            <td width="50" height="30" bgcolor="#ccff33"> <center><b>5</b></center></td>
+            <td width="50" height="30" bgcolor="#ccff33"> <center><b>6</b></center></td>
+            <td width="50" height="30" bgcolor="#ccff33"> <center><b>7</b></center></td>
+            <td width="50" height="30" bgcolor="#ccff33"> <center><b>8</b></center></td>
+          </tr>
+
+         <tr><td width="50" height="50" bgcolor="black"></td>   
+             <td width="50" height="50"></td>
+             <td width="50" height="50" bgcolor="black"></td>
+             <td width="50" height="50"></td>
+             <td width="50" height="50" bgcolor="black"></td>
+             <td width="50" height="50"></td>
+             <td width="50" height="50" bgcolor="black"></td>
+             <td width="50" height="50"></td>
+             <td width="30" height="50" bgcolor="#ccff33"><center><b>A</b></center></td>
+          </tr>
+          
+         <tr><td width="50" height="50"></td>
+            <td width="50" height="50" bgcolor="black"></td>
+            <td width="50" height="50"></td>
+            <td width="50" height="50" bgcolor="black"></td>
+            <td width="50" height="50"></td>
+            <td width="50" height="50" bgcolor="black"></td>
+            <td width="50" height="50"></td>
+            <td width="50" height="50" bgcolor="black"></td>
+            <td width="30" height="50" bgcolor="#ccff33"><center><b>B</b></center></td>
+         </tr>
+
+         <tr><td width="50" height="50" bgcolor="black"></td>
+            <td width="50" height="50"></td>
+            <td width="50" height="50" bgcolor="black"></td>
+            <td width="50" height="50"></td>
+            <td width="50" height="50" bgcolor="black"></td>
+            <td width="50" height="50"></td>
+            <td width="50" height="50" bgcolor="black"></td>
+            <td width="50" height="50"></td>
+            <td width="30" height="50" bgcolor="#ccff33"><center><b>C</b></center></td>
+         </tr
+
+         <tr><td width="50" height="50"></td>
+            <td width="50" height="50" bgcolor="black"></td>
+            <td width="50" height="50"></td>
+            <td width="50" height="50" bgcolor="black"></td>
+            <td width="50" height="50"></td>
+            <td width="50" height="50" bgcolor="black"></td>
+            <td width="50" height="50"></td>
+            <td width="50" height="50" bgcolor="black"></td>
+            <td width="30" height="50" bgcolor="#ccff33"><center><b>D</b></center></td>
+         </tr>
+         
+         <tr><td width="50" height="50" bgcolor="black"></td>
+            <td width="50" height="50"></td>
+            <td width="50" height="50" bgcolor="black"></td>
+            <td width="50" height="50"></td>
+            <td width="50" height="50" bgcolor="black"></td>
+            <td width="50" height="50"></td>
+            <td width="50" height="50" bgcolor="black"></td>
+            <td width="50" height="50"></td>
+            <td width="30" height="50" bgcolor="#ccff33"><center><b>E</b></center></td>
+         </tr>
+
+        <tr><td width="50" height="50"></td>
+           <td width="50" height="50" bgcolor="black"></td>
+           <td width="50" height="50"></td>
+           <td width="50" height="50" bgcolor="black"></td>
+           <td width="50" height="50"></td>
+           <td width="50" height="50" bgcolor="black"></td>
+           <td width="50" height="50"></td>
+           <td width="50" height="50" bgcolor="black"></td>
+           <td width="30" height="50" bgcolor="#ccff33"><center><b>F</b></center></td>
+        </tr>
+
+        <tr><td width="50" height="50" bgcolor="black"></td>
+           <td width="50" height="50"></td>
+           <td width="50" height="50" bgcolor="black"></td>
+           <td width="50" height="50"></td>
+           <td width="50" height="50" bgcolor="black"></td>
+           <td width="50" height="50"></td>
+           <td width="50" height="50" bgcolor="black"></td>
+           <td width="50" height="50"></td>
+           <td width="30" height="50" bgcolor="#ccff33"><center><b>G</b></center></td>
+        </tr
+        
+        <tr><td width="50" height="50"></td>
+           <td width="50" height="50" bgcolor="black"></td>
+           <td width="50" height="50"></td>
+           <td width="50" height="50" bgcolor="black"></td>
+           <td width="50" height="50"></td>
+           <td width="50" height="50" bgcolor="black"></td>
+           <td width="50" height="50"></td>
+           <td width="50" height="50" bgcolor="black"></td>
+           <td width="30" height="50" bgcolor="#ccff33"><center><b>H</b></center></td>
+        </tr>
+       </table>
+     </body>
+   </html>
