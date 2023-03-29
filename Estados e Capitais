@@ -1,0 +1,125 @@
+<!doctipe html>
+ <html lang="pt-br"
+  <head>
+ <h1>Estados Brasileiros e suas capitais</h1>
+  </head>
+  <body>
+<table border="1">
+    <thead>
+        <tr>
+          <th>Estado</th>
+          <th>Capital</th>  
+        </tr>
+    </thead>
+    <tr>
+     <td>Acre</td>
+     <td>Rio Branco</td>    
+    </tr>
+    <tr>
+        <td>Alagoas</td>
+        <td>Maceió</td>    
+       </tr>
+    <tr>
+        <td>Amapá</td>
+        <td>Macapá</td>    
+    </tr>   
+    <tr>
+        <td>Amazonas</td>
+        <td>Manaus</td>    
+    </tr> 
+    <tr>
+        <td>Bahia</td>
+        <td>Salvador</td>    
+    </tr>     
+    <tr>
+        <td>Ceará</td>
+        <td>Fortaleza</td>    
+    </tr>   
+    <tr>
+        <td>Espirito Santo</td>
+        <td>Vitória</td>    
+    </tr>   
+    <tr>
+        <td>Goiás</td>
+        <td>Goiânia</td>
+    <tr>
+        <td>Maranhão</td>
+        <td>São Luís</td>    
+    </tr>       
+    <tr>
+        <td>Mato Grosso</td>
+        <td>Cuiabá</td>    
+    </tr>   
+    <tr>
+        <td>Mato Grosso do Sul</td>
+        <td>Campo Grande</td>    
+    </tr>
+    <tr>
+        <td>Minas Gerais</td>
+        <td>Belo Horizonte</td>    
+    </tr>     
+    <tr>
+        <td>Pará</td>
+        <td>Belém</td>    
+    </tr>    
+    <tr>
+        <td>Paraiba</td>
+        <td>João Pessoa</td>    
+    </tr>   
+    <tr>
+        <td>Paraná</td>
+        <td>Curitiba</td>    
+    </tr>   
+    <tr>
+        <td>Pernambuco</td>
+        <td>Recife</td>    
+    </tr>   
+    <tr>
+        <td>Piauí</td>
+        <td>Teresina</td>    
+    </tr>   
+    <tr>
+        <td>Rio de Janeiro</td>
+        <td>Rio de Janeiro</td>    
+    </tr>   
+    <tr>
+        <td>Rio Grande do Norte</td>
+        <td>Natal</td>    
+    </tr>   
+    <tr>
+        <td>Rio Grande do Sul</td>
+        <td>Porto Alegre</td>    
+    </tr>   
+    <tr>
+        <td>Rondônia</td>
+        <td>Porto Velho</td>    
+    </tr>   
+    <tr>
+        <td>Roraima</td>
+        <td>Boa Vista</td>
+    </tr>
+    <tr>
+        <td>Santa Catarina</td>
+        <td>Florianópolis</td>    
+    </tr>      
+    <tr>
+        <td>São Paulo</td>
+        <td>São Paulo</td>    
+    </tr>   
+    <tr>
+        <td>Sergipe</td>
+        <td>Aracaju</td>    
+    </tr>   
+    <tr>
+        <td>Tocantins</td>
+        <td>Palmas</td>    
+    </tr>   
+    <tr>
+        <td>Distrito Federal</td>
+        <td>Brasília</td>    
+    </tr>   
+    
+
+</table>
+  </body>
+  </html>
